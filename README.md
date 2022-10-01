@@ -2,4 +2,4 @@
 
 https://dwakk.vercel.app
 
-Temp host lol
+Temp host/domain lol
