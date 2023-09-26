@@ -2,4 +2,4 @@
 
 First website, created in October 2022
 
-__No longer maintained__
+_No longer maintained_
